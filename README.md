@@ -278,4 +278,4 @@ The PDF may be scanned or image-only. Use a text-based PDF or implement a PDF-pa
 
 ## License
 
-No license has been specified yet. Add a license file before allowing others to reuse, modify, or distribute this project.
+Apache
